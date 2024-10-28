@@ -8,7 +8,8 @@ Explore the intricate interactions within a dynamic, evolving ecosystem of plant
 
 ![C++](https://img.shields.io/badge/Language-C++-blue)  
 ![Emscripten](https://img.shields.io/badge/Compiler-Emscripten-orange)  
-![SDL](https://img.shields.io/badge/Graphics-SDL2-red)  
+![Empirical](https://img.shields.io/badge/Library-Empirical-green)  
+![HTML5 Canvas](https://img.shields.io/badge/Graphics-HTML5--Canvas-red)  
 ![Git](https://img.shields.io/badge/VersionControl-Git-lightgrey)
 
 ---
@@ -145,6 +146,6 @@ The ultimate survivors, omnivores can consume all other species, adapting to any
 
 ## **Project Summary**
 
-This simulation offers a glimpse into the dynamics of artificial life and digital evolution. Through carefully crafted rules and interactions, each species demonstrates survival strategies in response to environmental pressures. The balance of the ecosystem reflects real-world scenarios, where overpopulation, competition, and food scarcity can lead to collapse—or adaptation. 
+This simulation offers a glimpse into the dynamics of artificial life and digital evolution. Through carefully crafted rules and interactions, each species demonstrates survival strategies in response to environmental pressures. The project utilizes **Empirical**, a powerful toolkit for web-based simulations, to render and animate the ecosystem using **HTML5 Canvas**. This choice avoids the need for SDL2, while still achieving an interactive graphical environment within the browser.
 
 Use this project to explore complex behaviors, observe emergent phenomena, and understand how simple rules can create intricate ecosystems.
