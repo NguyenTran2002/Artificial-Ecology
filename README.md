@@ -76,7 +76,7 @@ Follow these steps to set up and run the simulation:
 - **Herbivores** feed on plants.
 - **Carnivores** prey on herbivores and omnivores.
 - **Intelligent Omnivores** consume any species—including plants, herbivores, and carnivores.
-- **Evolution Points** (EP) determine the actions each species can take. Except for plants, every species gains 50 EP per turn.
+- **Evolution Points** (EP) determine the actions each species can take. Every species gains 50 EP per turn, except for plants (which gains 100 EP per turn through photosynthesis).
 
 ---
 
